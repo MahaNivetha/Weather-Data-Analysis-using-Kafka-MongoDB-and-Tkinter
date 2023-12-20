@@ -7,14 +7,16 @@ Key Features:
 
 Real-Time Streaming: Harness the power of Apache Kafka to stream live weather data from various sources, ensuring a continuous and up-to-date flow of information.
 Efficient Data Storage: MongoDB, a robust NoSQL database, is employed for storing the streamed weather data. Its flexible and scalable nature facilitates easy data retrieval and management.
+
 Advanced Analysis with Spark: Leverage Apache Spark's data processing capabilities to conduct in-depth analysis on the stored weather data, extracting valuable insights and trends.
 User-Friendly Interface: The Tkinter-based graphical user interface provides an intuitive platform for users to interact with the analyzed data, visualize trends, and make informed decisions based on the weather information.
 How to Use:
 
 Setup Prerequisites: Ensure the installation of Apache Kafka, MongoDB, and required Python libraries.
 Run Scripts: Execute the provided Python scripts (producerw.py, consumerw.py, visual.py) to initiate the data streaming, storing, and GUI functionalities.
+
 Real-Time Analysis: Experience real-time weather data analysis through the Tkinter GUI, allowing users to visualize trends and patterns effortlessly.
-Acknowledgments: We express gratitude to Tomorrow.io API, Apache Kafka, MongoDB, Apache Spark, Tkinter, and Matplotlib for their crucial contributions to this project.
+
 Explore the Weather Data Analysis project and gain valuable insights into weather patterns, trends, and forecasts with ease!
 ## Prerequisites
 
